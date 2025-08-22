@@ -33,5 +33,5 @@ ghc main.hs -o programa
 ## Ejemplos
 1. <img width="300" height="260" alt="Captura de pantalla 2025-08-22 004045" src="https://github.com/user-attachments/assets/d6bb8ed6-9289-46b1-b20b-b883a981c52a" />
 2. <img width="300" height="260" alt="Captura de pantalla 2025-08-22 004149" src="https://github.com/user-attachments/assets/681f3e0f-405e-4171-b593-6061045c0b35" />
-3. <img width="300" height="160" alt="Captura de pantalla 2025-08-22 004303" src="https://github.com/user-attachments/assets/da43a1eb-6f07-483f-97f6-18ac5b231be0" />
+3. <img width="500" height="400" alt="Captura de pantalla 2025-08-22 004303" src="https://github.com/user-attachments/assets/da43a1eb-6f07-483f-97f6-18ac5b231be0" />
 
