@@ -21,9 +21,9 @@ Este proyecto implementa las operaciones básicas de *suma, resta, multiplicaci�
   ```
   
 -  Implementa la multiplicación como sumas sucesivas.
-  ```
-  multiplicar :: Int -> Int -> Int
-  ```
+    ```
+    multiplicar :: Int -> Int -> Int
+    ```
 
 - Implementa la división entera como restas sucesivas.
   ```
