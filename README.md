@@ -34,11 +34,11 @@ Este proyecto implementa las operaciones básicas de *suma, resta, multiplicaci�
  
 ## Ejecución
 
-Para compilar y ejecutar:
+Para compilar y ejecutar en PowerShell:
 
 ```bash
-ghc main.hs -o programa
-./programa
+ghc <nombreArchivo>.hs -o <nombreArchivo>
+.\<nombreArchivo>
 ```
 
 
