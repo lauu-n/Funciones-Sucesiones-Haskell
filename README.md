@@ -37,8 +37,8 @@ Este proyecto implementa las operaciones b√°sicas de *suma, resta, multiplicaci√
 Para compilar y ejecutar en PowerShell:
 
 ```bash
-ghc <nombreArchivo>.hs -o <nombreArchivo>
-.\<nombreArchivo>
+ghc nombreArchivo.hs -o nombreArchivo
+.\nombreArchivo
 ```
 
 
