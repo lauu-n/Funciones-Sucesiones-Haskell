@@ -11,7 +11,7 @@ Este proyecto implementa las operaciones básicas de *suma, resta, multiplicaci�
   sucesor :: Int -> Int  
   ```
 
--Implementa la resta mediante recursión.
+- Implementa la resta mediante recursión.
   ```
   resta :: Int -> Int -> Int
   ```
