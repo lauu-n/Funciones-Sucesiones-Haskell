@@ -25,9 +25,10 @@ Este proyecto implementa las operaciones b√°sicas de *suma, resta, multiplicaci√
 
 Para compilar y ejecutar:
 
-bash
+```bash
 ghc main.hs -o programa
 ./programa
+```
 
 
 ## Ejemplos
