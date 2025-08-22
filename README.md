@@ -1,8 +1,10 @@
 # Funciones con Sucesiones en Haskell
 
+
 # Operaciones Básicas en Haskell
 
 Este proyecto implementa las operaciones básicas de *suma, resta, multiplicación y división*, utilizando únicamente el concepto de sucesor (+1).
+
 
 ## Funciones implementadas
 
@@ -41,6 +43,7 @@ ghc main.hs -o programa
 
 
 ## Ejemplos
+
 ### 1. Ejemplo 1:
    - Se ingresaron dos enteros (10 y 5), se realizaron las 4 operaciones de manera correcta.
    - Se ingresaron dos números reales (3,7 y 8,5), se calculó la suma de estos.
