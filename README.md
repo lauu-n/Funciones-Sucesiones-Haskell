@@ -6,19 +6,34 @@ Este proyecto implementa las operaciones básicas de *suma, resta, multiplicaci�
 
 ## Funciones implementadas
 
-- sucesor :: Int -> Int  
+-
+  ```
+  sucesor :: Int -> Int  
+  ```
   Retorna el siguiente número entero.
 
-- resta :: Int -> Int -> Int  
+-
+  ```
+  resta :: Int -> Int -> Int
+  ```
   Implementa la resta mediante recursión.
 
-- suma :: Int -> Int -> Int  
+-
+```
+  suma :: Int -> Int -> Int
+```
   Implementa la suma utilizando la función sucesor.
 
-- multiplicar :: Int -> Int -> Int  
+-
+```
+  multiplicar :: Int -> Int -> Int
+```
   Implementa la multiplicación como sumas sucesivas.
 
-- division :: Int -> Int -> Int  
+-
+```
+  division :: Int -> Int -> Int
+```
   Implementa la división entera como restas sucesivas. Maneja división por cero.
  
 ## Ejecución
